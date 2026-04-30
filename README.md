@@ -1,7 +1,7 @@
 # Protest and State Response in China
 
 ## 💫 Overview
-This is course project for *POLI3148 - Data Science in Politics and Public Administration* at HKU. The project investigates the patterns of collective action and the logic of state intervention in China between 2018 and 2025. It begins with an overview of protests in China, then explores how the state selectively applies coercion based on protest characteristics and participant identity, treating state response as an outcome shaped by perceived threats to regime stability.  
+This is the analytical report for *POLI3148 - Data Science in Politics and Public Administration* at HKU. It investigates the patterns of collective action and the logic of state intervention in China between 2018 and 2025. It begins with an overview of protests in China, then explores how the state selectively applies coercion based on protest characteristics and participant identity, treating state response as an outcome shaped by perceived threats to regime stability.  
 
 ## 📊 Data Sources
 The analysis utilizes the protest and riots data in China downloaded from the **Armed Conflict Location and Event Data (ACLED)** project. This dataset includes granular information on event dates, locations, participant types, crowd sizes, and textual descriptions of protest motives.  
